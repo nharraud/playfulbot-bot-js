@@ -1,0 +1,22 @@
+{
+  "name": "playfulbot-bot-js",
+  "version": "1.0.0-alpha.0",
+  "description": "Bot scaffold for javascript language",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nharraud/playfulbot-bot-js.git"
+  },
+  "author": "Nicolas Harraudeau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nharraud/playfulbot-bot-js/issues"
+  },
+  "homepage": "https://github.com/nharraud/playfulbot-bot-js#readme",
+  "dependencies": {
+    "playfulbot-client": "*"
+  }
+}
